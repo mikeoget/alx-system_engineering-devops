@@ -1,1 +1,1 @@
-whom
+kundi
