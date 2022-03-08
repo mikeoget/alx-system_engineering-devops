@@ -1,1 +1,1 @@
-local variables
+display
