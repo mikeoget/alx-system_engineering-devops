@@ -1,1 +1,1 @@
-echo $((POWER/DIVIDE))
+\necho $((POWER/DIVIDE))
